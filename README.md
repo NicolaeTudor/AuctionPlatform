@@ -16,14 +16,14 @@ An auction platform where you can:
 1. Place bids
 
 An auction can be of 2 types:
--English auction
--Second bid auction
+- English auction
+- Second bid auction
 
-see "add link".
+see [Auction types](https://www.usenix.org/legacy/publications/library/proceedings/ec98/full_papers/harkavy/harkavy_html/node2.html)
 
 Not yet implemented:
--see list of published auctions
--see list of ongoing auction
--automate the scheduling published auction
--see details of an auction
--hide functionalities of company under private key
+- see list of published auctions
+- see list of ongoing auction
+- automate the scheduling published auction
+- see details of an auction
+- hide functionalities of company under private key
